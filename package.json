@@ -1,0 +1,19 @@
+{
+  "name": "app-for-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtruongminh/app-for-jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtruongminh/app-for-jenkins/issues"
+  },
+  "homepage": "https://github.com/mrtruongminh/app-for-jenkins#readme"
+}
